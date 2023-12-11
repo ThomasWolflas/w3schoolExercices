@@ -1,1 +1,5 @@
-jhbqcc
+<<<<<<< HEAD
+jhbgss
+=======
+jhbgss
+>>>>>>> branche
