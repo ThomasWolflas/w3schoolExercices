@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-jhbgss
-=======
-jhbgss
->>>>>>> branche
+patato
